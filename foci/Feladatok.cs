@@ -14,7 +14,7 @@ namespace foci
 
         public Feladatok(string filename)
         {
-            adatok = new();//
+            adatok = new();//dufh sfhsdfsfsdfsdf
         }
         public void Feladat2()
         {
